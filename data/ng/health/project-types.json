@@ -1169,7 +1169,7 @@
       "beneficiaryType": "INDIVIDUAL",
       "resources": [
         {
-          "productVariantId": "PVAR-2025-01-03-000003",
+          "productVariantId": "PVAR-2025-07-18-000001",
           "isBaseUnitVariant": false
         }
       ],
@@ -1179,8 +1179,8 @@
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": "5",
-          "startDate": 1735669800000,
-          "endDate": 1753986600000,
+          "startDate": 1753228800000,
+          "endDate": 1753660800000,
           "id": 1,
           "deliveries": [
             {
@@ -1192,7 +1192,7 @@
                   "condition": "age>0andage<3",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 2
                     }
                   ]
@@ -1201,7 +1201,7 @@
                   "condition": "age>2andage<12",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 4
                     }
                   ]
@@ -1210,7 +1210,7 @@
                   "condition": "age>11andage<60andheight>49andheight<55",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 2
                     }
                   ]
@@ -1219,7 +1219,7 @@
                   "condition": "age>11andage<60andheight>54andheight<66",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 4
                     }
                   ]
@@ -1228,7 +1228,7 @@
                   "condition": "age>11andage<60andheight>65andheight<77",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 6
                     }
                   ]
@@ -1237,7 +1237,7 @@
                   "condition": "age>11andage<60andheight>76andheight<88",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 8
                     }
                   ]
@@ -1246,7 +1246,7 @@
                   "condition": "age>11andage<60andheight>87andheight<99",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 10
                     }
                   ]
@@ -1255,7 +1255,7 @@
                   "condition": "age>11andage<60andheight>98andheight<111",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 12
                     }
                   ]
@@ -1264,7 +1264,7 @@
                   "condition": "age>11andage<60andheight>110andheight<123",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 14
                     }
                   ]
@@ -1273,7 +1273,7 @@
                   "condition": "age>11andage<60andheight>122andheight<131",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 16
                     }
                   ]
@@ -1282,7 +1282,7 @@
                   "condition": "age>11andage<60andheight>130andheight<139",
                   "ProductVariants": [
                     {
-                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 19
                     }
                   ]
