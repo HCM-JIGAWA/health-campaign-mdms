@@ -10,27 +10,27 @@
             "isOrigin": true
           },
           "national": {
-            "routePath": "/kibana-upgrade/s/smc/app/dashboards?auth_provider_hint=anonymous1#/view/57d366ec-4092-4eeb-a996-829da52d8019?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/jigawa-azm/app/dashboards?auth_provider_hint=anonymous1#/view/8347f8b0-487e-4899-97f8-da94edad1685?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district": {
-            "routePath": "/kibana-upgrade/s/smc/app/dashboards?auth_provider_hint=anonymous1#/view/b40857bf-79d1-47b4-904d-b3cec3bc20fe?_g=(time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/jigawa-azm/app/dashboards?auth_provider_hint=anonymous1#/view/f868750c-8999-4e21-8c4f-1473388c5d55?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           },
           "national-azt": {
-            "routePath": "/kibana-upgrade/s/azm/app/dashboards?auth_provider_hint=anonymous1#/view/b0bfd944-59bb-4aba-bc59-814214a60d32?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/jigawa-azm/app/dashboards?auth_provider_hint=anonymous1#/view/8347f8b0-487e-4899-97f8-da94edad1685?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
             "title": "NATIONAL_DASHBOARD"
           },
           "district-azt": {
-            "routePath": "/kibana-upgrade/s/azm/app/dashboards?auth_provider_hint=anonymous1#/view/ddbc6f56-e0dc-4d2f-a699-c9fd99da7bdc?_g=(time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana-upgrade/s/jigawa-azm/app/dashboards?auth_provider_hint=anonymous1#/view/f868750c-8999-4e21-8c4f-1473388c5d55?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           },
           "province": {
-            "routePath": "/kibana-upgrade/s/national-supervisor/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
+            "routePath": "/kibana-upgrade/s/jigawa-azm/app/dashboards?auth_provider_hint=anonymous1#/view/f868750c-8999-4e21-8c4f-1473388c5d55?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
             "title": "PROVINCE_DASHBOARD"
           },
