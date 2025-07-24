@@ -1053,6 +1053,15 @@
                       "quantity": 19
                     }
                   ]
+                },
+                {
+                  "condition": "age>11andage<60andheight>138",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 25
+                    }
+                  ]
                 }
               ]
             }
@@ -1284,6 +1293,15 @@
                     {
                       "productVariantId": "PVAR-2025-07-18-000001",
                       "quantity": 19
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>11andage<60andheight>138",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-07-18-000001",
+                      "quantity": 25
                     }
                   ]
                 }
